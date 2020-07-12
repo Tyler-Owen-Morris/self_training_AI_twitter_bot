@@ -1,4 +1,4 @@
-# self_training_AI_twitter_bot
+# Self Training AI Twitter Bot
 
 ### summary:
 
